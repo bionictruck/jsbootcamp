@@ -1,0 +1,7 @@
+Variables - values or strings assigned to a simple name
+String - A word or sentence
+Functions - A block of code that is given a simple name
+    arguments - values or strings that are used in the function
+    return - after running the code the result is returned for use elsewhere in the program
+if statements - used to do simple comparisons in order to determine what to do
+Boolean values - Evaluates a comparison to true or false so the program can decide what to do with it
